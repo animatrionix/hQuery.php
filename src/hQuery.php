@@ -1331,4 +1331,4 @@ class hQuery extends hQuery\HTML_Index
 
 // ------------------------------------------------------------------------
 // PSR-0 alias
-// class_exists('hQuery', false) or class_alias('duzun\\hQuery', 'hQuery', false);
+// class_exists('hQuery', false) or class_alias('duzun\\hQuery', 'hQuery', false);--
